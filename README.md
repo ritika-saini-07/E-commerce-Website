@@ -1,7 +1,7 @@
-My Shopping App
+Ecommerce site
 
 Overview
-My Shopping App is a full‑stack MERN e‑commerce sample with authentication, product browsing, cart, checkout, order history, user profile, multi‑address book, wishlist, and email notifications. The project is split into two apps:
+It is a full‑stack MERN e‑commerce sample with authentication, product browsing, cart, checkout, order history, user profile, multi‑address book, wishlist, and email notifications. The project is split into two apps:
 - Backend - Shopping - App (Node.js/Express, MongoDB)
 - Frontend - Shopping - App (React + Vite, TailwindCSS)
 
@@ -120,5 +120,6 @@ Troubleshooting
 
 License
 This project is for educational/demo purposes. Replace branding and review licenses of dependencies before production use.
+
 
 
